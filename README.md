@@ -1,1 +1,1 @@
-# Excercise for the IBM Professionel Data Science Certificate
+# Excercises for the IBM Professionel Data Science Certificate
